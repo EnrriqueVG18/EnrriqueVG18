@@ -6,7 +6,7 @@
 
 <div align="center">
 
-🇧🇴 **Cochabamba, Bolivia** &nbsp;•&nbsp; 💻 **Web Development** &nbsp;•&nbsp; 🚀 **Always Learning**
+**Cochabamba, Bolivia** &nbsp;•&nbsp; **Web Development** &nbsp;•&nbsp; **Always Learning**
 
 <br/>
 
@@ -18,49 +18,38 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 ```txt
-🎯 Goal        → Become an excellent Full Stack Web Developer
-🌱 Status      → Actively learning and building every day
-📍 Location    → Cochabamba, Bolivia 🇧🇴
-💡 Mindset     → Every project is a new opportunity to grow
-🤝 Open to     → Collaborations, feedback and new challenges
+Goal        → Become an excellent Full Stack Web Developer
+Status      → Actively learning and building every day
+Location    → Cochabamba, Bolivia
+Mindset     → Every project is a new opportunity to grow
+Open to     → Collaborations, feedback and new challenges
 ```
 
 ---
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 <div align="center">
 
-### 🎨 Frontend
+### Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,angular&theme=dark)](https://skillicons.dev)
 
-### ⚙️ Backend & Database
+### Backend & Database
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,postgres&theme=dark)](https://skillicons.dev)
 
-### 🔧 Tools & Version Control
+### Tools & Version Control
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode&theme=dark)](https://skillicons.dev)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -68,24 +57,39 @@
 
 <br/><br/>
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=EnrriqueVG18&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EnrriqueVG18&theme=tokyonight" alt="Profile Summary" />
 
-<br/><br/>
+<br/>
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EnrriqueVG18&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EnrriqueVG18&theme=tokyonight" alt="Stats" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EnrriqueVG18&theme=tokyonight" alt="Languages" />
 
 </div>
+
 ---
 
-## 📬 Contact Me
+## Projects
 
 <div align="center">
 
-| 🌐 Platform | 🔗 Link |
-|:-----------:|:-------:|
-| 💼 LinkedIn | [luis-enrrique-velarde-garcia](https://www.linkedin.com/in/luis-enrrique-velarde-garcia-7126a23b2) |
-| 📧 Email | [enrriquevg.1811@gmail.com](mailto:enrriquevg.1811@gmail.com) |
-| 💬 WhatsApp | [+591 76962317](https://wa.me/59176962317) |
+> Currently working on projects to showcase here.
+>
+> **Coming soon — stay tuned!**
+
+</div>
+
+---
+
+## Contact
+
+<div align="center">
+
+| Platform | Link |
+|:--------:|:----:|
+| LinkedIn | [luis-enrrique-velarde-garcia](https://www.linkedin.com/in/luis-enrrique-velarde-garcia-7126a23b2) |
+| Email | [enrriquevg.1811@gmail.com](mailto:enrriquevg.1811@gmail.com) |
+| WhatsApp | [+591 76962317](https://wa.me/59176962317) |
 
 </div>
 
@@ -97,6 +101,6 @@
 
 *"Every expert was once a beginner — the journey is the destination."*
 
-**Thanks for visiting my profile!** 🚀
+**Thanks for visiting my profile!**
 
 </div>
