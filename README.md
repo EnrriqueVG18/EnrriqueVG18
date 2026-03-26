@@ -77,18 +77,6 @@
 
 ---
 
-## 📂 Projects
-
-<div align="center">
-
-> 🚧 Currently working on projects to showcase here.
-> 
-> **Coming soon — stay tuned!** ⭐
-
-</div>
-
----
-
 ## 📬 Contact Me
 
 <div align="center">
