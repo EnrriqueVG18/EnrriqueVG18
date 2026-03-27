@@ -69,17 +69,6 @@ Open to     → Collaborations, feedback and new challenges
 
 ---
 
-## Projects
-
-<div align="center">
-
-> Currently working on projects to showcase here.
->
-> **Coming soon — stay tuned!**
-
-</div>
-
----
 
 ## Contact
 
