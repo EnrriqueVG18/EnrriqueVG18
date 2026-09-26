@@ -1,109 +1,225 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Luis%20Enrrique%20Velarde&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20in%20Training&descAlignY=58&descSize=18&descColor=a0a0c0" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,40:4c1d95,70:2563eb,100:06b6d4&height=220&section=header&text=Enrrique%20Velarde%20Garcia&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20in%20Training&descSize=20&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A0A0FF&center=true&vCenter=true&width=500&lines=Aprendiendo+cada+d%C3%ADa+%F0%9F%9A%80;Full+Stack+Web+Developer+en+camino;HTML+%7C+CSS+%7C+JS+%7C+React+%7C+Laravel;Bienvenido+a+mi+perfil" alt="Typing SVG" />
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=EnrriqueVG18&color=845ef7&style=flat-square&label=Visitas+al+perfil" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=600&lines=🚀+Aprendiendo+cada+día;💻+Full+Stack+Developer+Journey;⚡+Construyendo+ideas+con+código;🌎+Bolivia+Developer"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=EnrriqueVG18&label=Visitas+al+perfil&color=8b5cf6&style=for-the-badge"/>
 
 </div>
+
+
+<br>
+
 
 <div align="center">
 
-**Cochabamba, Bolivia** &nbsp;•&nbsp; **Web Development** &nbsp;•&nbsp; **Always Learning**
+<!-- Aquí puedes colocar tu personaje cartoon personalizado -->
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-enrrique-velarde-garcia-7126a23b2)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enrriquevg.1811@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/59176962317)
+<img src="TU_IMAGEN_CARTOON_AQUI" width="280"/>
 
 </div>
+
+
+<h2 align="center">
+👨‍💻 Sobre mí
+</h2>
+
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif" width="700">
+
+Hola! Soy <b>Enrrique Velarde Garcia</b> 👋
+
+<br>
+
+Desarrollador Web en formación apasionado por crear soluciones digitales,
+aprender nuevas tecnologías y transformar ideas en proyectos reales.
+
+<br><br>
+
+🇧🇴 Bolivia  
+💻 Web Development  
+🚀 Siempre aprendiendo  
+
+
 </div>
 
-<br/>
 
-## <img src="https://img.icons8.com/fluency/48/user-male-circle.png" width="28" valign="middle"/> Sobre mí
+<br>
+
+
+## 🎯 Mi objetivo
+
+Convertirme en un **Full Stack Web Developer** capaz de crear aplicaciones modernas,
+escalables y con excelentes experiencias de usuario.
+
+
+## 🚀 Actualmente
+
+- 📚 Mejorando mis habilidades de desarrollo web
+- 💻 Creando proyectos personales
+- ⚡ Explorando nuevas tecnologías
+- 🧠 Fortaleciendo mi lógica de programación
+
+
+---
+
+# 🛠️ Tecnologías y Herramientas
+
+
+<div align="center">
+
+
+### 🌐 Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark"/>
+
+
+### ⚙️ Backend & Database
+
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql&theme=dark"/>
+
+
+### 🔧 Herramientas
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
+
+
+</div>
+
+
+---
+
+# 🚀 Proyectos
+
+
+<div align="center">
+
 
 <table>
+
 <tr>
-<td width="60" align="center"><img src="https://img.icons8.com/fluency/48/goal.png" width="36"/></td>
-<td><b>Meta</b><br/>Convertirme en un excelente Full Stack Web Developer</td>
+
+<td width="50%" align="center">
+
+<h3>💻 Proyecto Web</h3>
+
+Aplicación desarrollada aplicando tecnologías modernas.
+
+</td>
+
+
+<td width="50%" align="center">
+
+<h3>🚀 Proyecto Full Stack</h3>
+
+Construyendo soluciones completas Frontend + Backend.
+
+</td>
+
 </tr>
-<tr>
-<td align="center"><img src="https://img.icons8.com/fluency/48/rocket.png" width="36"/></td>
-<td><b>Estado</b><br/>Aprendiendo y construyendo algo nuevo cada día</td>
-</tr>
-<tr>
-<td align="center"><img src="https://img.icons8.com/fluency/48/marker.png" width="36"/></td>
-<td><b>Ubicación</b><br/>Cochabamba, Bolivia</td>
-</tr>
-<tr>
-<td align="center"><img src="https://img.icons8.com/fluency/48/idea.png" width="36"/></td>
-<td><b>Mentalidad</b><br/>Cada proyecto es una oportunidad para crecer</td>
-</tr>
-<tr>
-<td align="center"><img src="https://img.icons8.com/fluency/48/handshake.png" width="36"/></td>
-<td><b>Abierto a</b><br/>Colaboraciones, feedback y nuevos retos</td>
-</tr>
+
 </table>
 
----
-
-## <img src="https://img.icons8.com/fluency/48/settings.png" width="28" valign="middle"/> Tecnologías y Herramientas
-
-<div align="center">
-
-**Frontend**
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,angular&theme=dark)](https://skillicons.dev)
-
-**Backend & Base de Datos**
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,postgres&theme=dark)](https://skillicons.dev)
-
-**Herramientas y Control de Versiones**
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode&theme=dark)](https://skillicons.dev)
 
 </div>
 
+
 ---
 
-## <img src="https://img.icons8.com/fluency/48/combo-chart.png" width="28" valign="middle"/> Estadísticas de GitHub
+# 📊 Estadísticas GitHub
+
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=EnrriqueVG18&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
 
-<br/><br/>
+<img src="https://github-readme-stats.vercel.app/api?username=EnrriqueVG18&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=EnrriqueVG18&theme=tokyonight&no-frame=true&column=4&margin-w=10&margin-h=10" alt="Trophies" />
+
+<br><br>
+
+
+<img src="https://github-readme-streak-stats.demolab.com?user=EnrriqueVG18&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+
+<br><br>
+
+
+<img src="https://github-profile-trophy.vercel.app/?username=EnrriqueVG18&theme=tokyonight&no-frame=true&column=4"/>
+
 
 </div>
 
+
 ---
 
-## <img src="https://img.icons8.com/fluency/48/contact-card.png" width="28" valign="middle"/> Contacto
+# 📚 Aprendiendo actualmente
+
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/luis-enrrique-velarde-garcia-7126a23b2"><img src="https://img.icons8.com/fluency/48/linkedin.png" width="42"/></a>
-&nbsp;&nbsp;
-<a href="mailto:enrriquevg.1811@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail-new.png" width="42"/></a>
-&nbsp;&nbsp;
-<a href="https://wa.me/59176962317"><img src="https://img.icons8.com/fluency/48/whatsapp.png" width="42"/></a>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=700&color=F97316&center=true&width=500&lines=React+Development;Laravel+Backend;Database+Design;Clean+Code;Software+Architecture"/>
+
 
 </div>
 
+
 ---
+
+# 📬 Contacto
+
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&fontColor=ffffff" />
 
-*"Cada experto fue alguna vez un principiante — el camino es el destino."*
+<a href="https://www.linkedin.com/in/luis-enrrique-velarde-garcia-7126a23b2">
 
-**¡Gracias por visitar mi perfil!**
+<img src="https://img.icons8.com/fluency/48/linkedin.png"/>
+
+</a>
+
+
+<a href="mailto:enrriquevg.1811@gmail.com">
+
+<img src="https://img.icons8.com/fluency/48/gmail-new.png"/>
+
+</a>
+
+
+<a href="https://wa.me/59176962317">
+
+<img src="https://img.icons8.com/fluency/48/whatsapp.png"/>
+
+</a>
+
+
+</div>
+
+
+<br>
+
+
+<div align="center">
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:2563eb,100:4c1d95&height=120&section=footer"/>
+
+
+<br>
+
+
+⭐ <i>"Cada experto fue alguna vez un principiante"</i>
+
+
+<br><br>
+
+
+<b>Gracias por visitar mi perfil 🚀</b>
+
 
 </div>
