@@ -21,7 +21,7 @@
 <br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:2563eb,100:06b6d4&height=4&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,50:2563eb,100:06b6d4&height=6&section=header" width="100%"/>
 </div>
 
 <h2 align="center">
@@ -62,7 +62,7 @@ Disfruto aprender nuevas tecnologías, construir proyectos y mejorar mis habilid
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:2563eb,100:06b6d4&height=4&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,50:2563eb,100:06b6d4&height=6&section=header" width="100%"/>
 </div>
 
 <h2 align="center">
@@ -89,7 +89,7 @@ Disfruto aprender nuevas tecnologías, construir proyectos y mejorar mis habilid
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:2563eb,100:06b6d4&height=4&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,50:2563eb,100:06b6d4&height=6&section=header" width="100%"/>
 </div>
 
 <h2 align="center">
@@ -99,26 +99,31 @@ Disfruto aprender nuevas tecnologías, construir proyectos y mejorar mis habilid
 
 <div align="center">
 
-<table align="center">
-<tr>
-<td align="right" width="42%"><b>🎨&nbsp; Frontend</b></td>
-<td align="left"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular&theme=dark"/></td>
-</tr>
-<tr>
-<td align="right"><b>⚙️&nbsp; Backend &amp; Base de Datos</b></td>
-<td align="left"><img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgres&theme=dark"/></td>
-</tr>
-<tr>
-<td align="right"><b>🛠️&nbsp; Herramientas</b></td>
-<td align="left"><img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/></td>
-</tr>
-</table>
+<b>🎨 Frontend</b>
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular&theme=dark"/>
+
+<br/><br/>
+
+<b>⚙️ Backend &amp; Base de Datos</b>
+<br/>
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgres&theme=dark"/>
+
+<br/><br/>
+
+<b>🛠️ Herramientas</b>
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
 
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:2563eb,100:06b6d4&height=4&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,50:2563eb,100:06b6d4&height=6&section=header" width="100%"/>
 </div>
+
+<!--
+  Sección de Proyectos Destacados — comentada temporalmente, aún sin proyectos para mostrar.
+  Para reactivarla, quita esta etiqueta de comentario y la de cierre al final del bloque.
 
 <h2 align="center">
   <img src="https://img.icons8.com/fluency/48/folder-invoices.png" width="28" valign="middle"/>
@@ -141,8 +146,9 @@ Disfruto aprender nuevas tecnologías, construir proyectos y mejorar mis habilid
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:2563eb,100:06b6d4&height=4&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,50:2563eb,100:06b6d4&height=6&section=header" width="100%"/>
 </div>
+-->
 
 <h2 align="center">
   <img src="https://img.icons8.com/fluency/48/combo-chart.png" width="28" valign="middle"/>
@@ -151,22 +157,30 @@ Disfruto aprender nuevas tecnologías, construir proyectos y mejorar mis habilid
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=EnrriqueVG18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=67E8F9&icon_color=8B5CF6&text_color=C9D1D9&count_private=true" alt="stats"/>
-<img width="49%" src="https://streak-stats.demolab.com/?user=EnrriqueVG18&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=67E8F9&currStreakLabel=67E8F9" alt="streak"/>
-
-<br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnrriqueVG18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=67E8F9&text_color=C9D1D9" alt="top langs"/>
-<img width="58%" src="https://github-profile-trophy.vercel.app/?username=EnrriqueVG18&theme=tokyonight&column=4&margin-w=8&margin-h=8" alt="trophies"/>
-
-<br/>
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=EnrriqueVG18&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=67E8F9&line=8B5CF6&point=ffffff&area=true" alt="activity graph"/>
+<img src="https://streak-stats.demolab.com/?user=EnrriqueVG18&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=67E8F9&currStreakLabel=67E8F9" alt="streak"/>
 
 </div>
 
+<!--
+  Tarjetas desactivadas temporalmente: stats, top-langs, trophies y activity-graph
+  usan el servicio público gratuito de github-readme-stats.vercel.app / github-profile-trophy.vercel.app,
+  que se satura seguido porque comparte el límite de la API de GitHub entre todos los que lo usan
+  (problema conocido y documentado por los propios mantenedores). Cuando quieras reactivarlas,
+  o mejor aún, cuando despliegues tu propia instancia gratuita en Vercel (con tu propio token,
+  así nunca se satura), descomenta este bloque:
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:2563eb,100:06b6d4&height=4&section=header" width="100%"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=EnrriqueVG18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=67E8F9&icon_color=8B5CF6&text_color=C9D1D9&count_private=true" alt="stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnrriqueVG18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=67E8F9&text_color=C9D1D9" alt="top langs"/>
+<br/>
+<img width="98%" src="https://github-profile-trophy.vercel.app/?username=EnrriqueVG18&theme=tokyonight&column=4&margin-w=8&margin-h=8" alt="trophies"/>
+<br/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=EnrriqueVG18&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=67E8F9&line=8B5CF6&point=ffffff&area=true" alt="activity graph"/>
+</div>
+-->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,50:2563eb,100:06b6d4&height=6&section=header" width="100%"/>
 </div>
 
 <h2 align="center">
@@ -189,7 +203,7 @@ Disfruto aprender nuevas tecnologías, construir proyectos y mejorar mis habilid
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:2563eb,100:06b6d4&height=4&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,50:2563eb,100:06b6d4&height=6&section=header" width="100%"/>
 </div>
 
 <h2 align="center">
