@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Luis%20Enrrique%20Velarde&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20in%20Training&descAlignY=58&descSize=18&descColor=a0a0c0" />
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A0A0FF&center=true&vCenter=true&width=500&lines=Aprendiendo+cada+d%C3%ADa+%F0%9F%9A%80;Full+Stack+Web+Developer+en+camino;HTML+%7C+CSS+%7C+JS+%7C+React+%7C+Laravel;Bienvenido+a+mi+perfil+%F0%9F%91%8B" alt="Typing SVG" />
+
 </div>
 
 <div align="center">
@@ -16,65 +18,65 @@
 
 </div>
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif" width="700">
+</div>
+
 ---
 
-## About Me
+## 👋 Sobre mí
+
 ```txt
-Goal        → Become an excellent Full Stack Web Developer
-Status      → Actively learning and building every day
-Location    → Cochabamba, Bolivia
-Mindset     → Every project is a new opportunity to grow
-Open to     → Collaborations, feedback and new challenges
+🎯 Meta        → Convertirme en un excelente Full Stack Web Developer
+⚡ Estado      → Aprendiendo y construyendo algo nuevo cada día
+📍 Ubicación   → Cochabamba, Bolivia
+💡 Mentalidad  → Cada proyecto es una oportunidad para crecer
+🤝 Abierto a   → Colaboraciones, feedback y nuevos retos
 ```
 
 ---
 
-## Technologies & Tools
+## 🛠️ Tecnologías y Herramientas
 
 <div align="center">
 
 ### Frontend
-
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,angular&theme=dark)](https://skillicons.dev)
 
-### Backend & Database
-
+### Backend & Base de Datos
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,postgres&theme=dark)](https://skillicons.dev)
 
-### Tools & Version Control
-
+### Herramientas y Control de Versiones
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode&theme=dark)](https://skillicons.dev)
 
 </div>
 
 ---
 
-## GitHub Stats
+## 📊 Estadísticas de GitHub
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=EnrriqueVG18&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EnrriqueVG18&theme=tokyonight" alt="Profile Summary" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=EnrriqueVG18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnrriqueVG18&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EnrriqueVG18&theme=tokyonight" alt="Stats" />
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EnrriqueVG18&theme=tokyonight" alt="Languages" />
+<img src="https://streak-stats.demolab.com?user=EnrriqueVG18&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=EnrriqueVG18&theme=tokyonight&no-frame=true&column=4&margin-w=10&margin-h=10" alt="Trophies" />
 
 </div>
 
 ---
 
-
-## Contact
+## 📬 Contacto
 
 <div align="center">
 
-| Platform | Link |
+| Plataforma | Enlace |
 |:--------:|:----:|
 | LinkedIn | [luis-enrrique-velarde-garcia](https://www.linkedin.com/in/luis-enrrique-velarde-garcia-7126a23b2) |
 | Email | [enrriquevg.1811@gmail.com](mailto:enrriquevg.1811@gmail.com) |
@@ -88,8 +90,8 @@ Open to     → Collaborations, feedback and new challenges
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&fontColor=ffffff" />
 
-*"Every expert was once a beginner — the journey is the destination."*
+*"Cada experto fue alguna vez un principiante — el camino es el destino."*
 
-**Thanks for visiting my profile!**
+**¡Gracias por visitar mi perfil!** ⭐
 
 </div>
