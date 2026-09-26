@@ -1,109 +1,224 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Luis%20Enrrique%20Velarde&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20in%20Training&descAlignY=58&descSize=18&descColor=a0a0c0" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,35:312e81,70:2563eb,100:06b6d4&height=190&section=header&text=Enrrique%20Velarde%20Garcia&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20Developer%20in%20Training&descSize=18&descAlignY=58" alt="banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A0A0FF&center=true&vCenter=true&width=500&lines=Aprendiendo+cada+d%C3%ADa+%F0%9F%9A%80;Full+Stack+Web+Developer+en+camino;HTML+%7C+CSS+%7C+JS+%7C+React+%7C+Laravel;Bienvenido+a+mi+perfil" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=800&color=67E8F9&center=true&vCenter=true&width=650&lines=Construyendo+con+c%C3%B3digo+%F0%9F%9A%80;Mi+viaje+como+Full+Stack+Developer;Siempre+aprendiendo+nuevas+tecnolog%C3%ADas;Creando+soluciones+digitales" alt="typing"/>
 
-<img src="https://komarev.com/ghpvc/?username=EnrriqueVG18&color=845ef7&style=flat-square&label=Visitas+al+perfil" />
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=EnrriqueVG18&style=for-the-badge&color=8b5cf6&label=VISITAS+AL+PERFIL"/>
+<img src="https://img.shields.io/github/followers/EnrriqueVG18?style=for-the-badge&logo=github&color=2563eb&labelColor=0f172a"/>
+<img src="https://img.shields.io/badge/Estado-Aprendiendo%20%26%20Construyendo-06b6d4?style=for-the-badge&labelColor=0f172a"/>
 
 </div>
+
+<br>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/Programmer.gif" width="380" alt="programmer"/>
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:2563eb,100:06b6d4&height=4&section=header" width="100%"/>
+</div>
+
+<h2 align="center">
+  <img src="https://img.icons8.com/fluency/48/user-male-circle.png" width="28" valign="middle"/>
+  &nbsp;Sobre mí
+</h2>
 
 <div align="center">
 
-**Cochabamba, Bolivia** &nbsp;•&nbsp; **Web Development** &nbsp;•&nbsp; **Always Learning**
+Hola, soy **Enrrique Velarde Garcia**, un desarrollador web en formación apasionado por crear soluciones digitales modernas.
+Disfruto aprender nuevas tecnologías, construir proyectos y mejorar mis habilidades cada día.
 
-<br/>
+<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-enrrique-velarde-garcia-7126a23b2)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enrriquevg.1811@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/59176962317)
-
-</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif" width="700">
-</div>
-
-<br/>
-
-## <img src="https://img.icons8.com/fluency/48/user-male-circle.png" width="28" valign="middle"/> Sobre mí
-
-<table>
+<table align="center">
 <tr>
-<td width="60" align="center"><img src="https://img.icons8.com/fluency/48/goal.png" width="36"/></td>
-<td><b>Meta</b><br/>Convertirme en un excelente Full Stack Web Developer</td>
+<td align="center" width="60"><img src="https://img.icons8.com/fluency/32/goal.png" width="26"/></td>
+<td align="left"><b>Meta</b><br/>Convertirme en un excelente Full Stack Web Developer</td>
 </tr>
 <tr>
-<td align="center"><img src="https://img.icons8.com/fluency/48/rocket.png" width="36"/></td>
-<td><b>Estado</b><br/>Aprendiendo y construyendo algo nuevo cada día</td>
+<td align="center"><img src="https://img.icons8.com/fluency/32/rocket.png" width="26"/></td>
+<td align="left"><b>Estado</b><br/>Aprendiendo y construyendo algo nuevo cada día</td>
 </tr>
 <tr>
-<td align="center"><img src="https://img.icons8.com/fluency/48/marker.png" width="36"/></td>
-<td><b>Ubicación</b><br/>Cochabamba, Bolivia</td>
+<td align="center"><img src="https://img.icons8.com/fluency/32/marker.png" width="26"/></td>
+<td align="left"><b>Ubicación</b><br/>Cochabamba, Bolivia</td>
 </tr>
 <tr>
-<td align="center"><img src="https://img.icons8.com/fluency/48/idea.png" width="36"/></td>
-<td><b>Mentalidad</b><br/>Cada proyecto es una oportunidad para crecer</td>
+<td align="center"><img src="https://img.icons8.com/fluency/32/idea.png" width="26"/></td>
+<td align="left"><b>Mentalidad</b><br/>Cada proyecto es una oportunidad para crecer</td>
 </tr>
 <tr>
-<td align="center"><img src="https://img.icons8.com/fluency/48/handshake.png" width="36"/></td>
-<td><b>Abierto a</b><br/>Colaboraciones, feedback y nuevos retos</td>
+<td align="center"><img src="https://img.icons8.com/fluency/32/handshake.png" width="26"/></td>
+<td align="left"><b>Abierto a</b><br/>Colaboraciones, feedback y nuevos retos</td>
 </tr>
 </table>
 
----
+</div>
 
-## <img src="https://img.icons8.com/fluency/48/settings.png" width="28" valign="middle"/> Tecnologías y Herramientas
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:2563eb,100:06b6d4&height=4&section=header" width="100%"/>
+</div>
+
+<h2 align="center">
+  <img src="https://img.icons8.com/fluency/48/rocket.png" width="28" valign="middle"/>
+  &nbsp;Mi Recorrido como Desarrollador
+</h2>
 
 <div align="center">
 
-**Frontend**
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,angular&theme=dark)](https://skillicons.dev)
-
-**Backend & Base de Datos**
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,postgres&theme=dark)](https://skillicons.dev)
-
-**Herramientas y Control de Versiones**
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode&theme=dark)](https://skillicons.dev)
+<table align="center">
+<tr>
+<td width="33%" align="center">
+<img src="https://img.icons8.com/fluency/64/source-code.png" width="56"/><br/><b>Programación</b><br/>Mejorando la lógica de programación y la resolución de problemas.
+</td>
+<td width="33%" align="center">
+<img src="https://img.icons8.com/fluency/64/web-design.png" width="56"/><br/><b>Frontend</b><br/>Construyendo interfaces modernas y atractivas.
+</td>
+<td width="33%" align="center">
+<img src="https://img.icons8.com/fluency/64/server.png" width="56"/><br/><b>Backend</b><br/>Creando sistemas y gestionando datos.
+</td>
+</tr>
+</table>
 
 </div>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:2563eb,100:06b6d4&height=4&section=header" width="100%"/>
+</div>
 
-## <img src="https://img.icons8.com/fluency/48/combo-chart.png" width="28" valign="middle"/> Estadísticas de GitHub
+<h2 align="center">
+  <img src="https://img.icons8.com/fluency/48/settings.png" width="28" valign="middle"/>
+  &nbsp;Tecnologías y Herramientas
+</h2>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=EnrriqueVG18&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+<table align="center">
+<tr>
+<td align="right" width="42%"><b>🎨&nbsp; Frontend</b></td>
+<td align="left"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular&theme=dark"/></td>
+</tr>
+<tr>
+<td align="right"><b>⚙️&nbsp; Backend &amp; Base de Datos</b></td>
+<td align="left"><img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgres&theme=dark"/></td>
+</tr>
+<tr>
+<td align="right"><b>🛠️&nbsp; Herramientas</b></td>
+<td align="left"><img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/></td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:2563eb,100:06b6d4&height=4&section=header" width="100%"/>
+</div>
+
+<h2 align="center">
+  <img src="https://img.icons8.com/fluency/48/folder-invoices.png" width="28" valign="middle"/>
+  &nbsp;Proyectos Destacados
+</h2>
+
+<div align="center">
+
+<table align="center">
+<tr>
+<td width="50%" align="center">
+<img src="https://img.icons8.com/fluency/64/code.png" width="56"/><br/><b>Aplicaciones Web</b><br/><br/>Aplicaciones modernas y responsivas enfocadas en usabilidad y diseño limpio.
+</td>
+<td width="50%" align="center">
+<img src="https://img.icons8.com/fluency/64/programming.png" width="56"/><br/><b>Proyectos Full Stack</b><br/><br/>Proyectos que combinan frontend, backend y bases de datos.
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:2563eb,100:06b6d4&height=4&section=header" width="100%"/>
+</div>
+
+<h2 align="center">
+  <img src="https://img.icons8.com/fluency/48/combo-chart.png" width="28" valign="middle"/>
+  &nbsp;Estadísticas de GitHub
+</h2>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=EnrriqueVG18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=67E8F9&icon_color=8B5CF6&text_color=C9D1D9&count_private=true" alt="stats"/>
+<img width="49%" src="https://streak-stats.demolab.com/?user=EnrriqueVG18&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=67E8F9&currStreakLabel=67E8F9" alt="streak"/>
+
+<br/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnrriqueVG18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=67E8F9&text_color=C9D1D9" alt="top langs"/>
+<img width="58%" src="https://github-profile-trophy.vercel.app/?username=EnrriqueVG18&theme=tokyonight&column=4&margin-w=8&margin-h=8" alt="trophies"/>
+
+<br/>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=EnrriqueVG18&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=67E8F9&line=8B5CF6&point=ffffff&area=true" alt="activity graph"/>
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:2563eb,100:06b6d4&height=4&section=header" width="100%"/>
+</div>
+
+<h2 align="center">
+  <img src="https://img.icons8.com/fluency/48/book.png" width="28" valign="middle"/>
+  &nbsp;Actualmente Aprendiendo
+</h2>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=700&color=F59E0B&center=true&width=600&lines=React;Laravel;Tailwind+CSS;Dise%C3%B1o+de+Bases+de+Datos;Clean+Code" alt="learning"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=EnrriqueVG18&theme=tokyonight&no-frame=true&column=4&margin-w=10&margin-h=10" alt="Trophies" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Database_Design-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Clean_Code-8B5CF6?style=for-the-badge&logo=codereview&logoColor=white"/>
 
 </div>
 
----
-
-## <img src="https://img.icons8.com/fluency/48/contact-card.png" width="28" valign="middle"/> Contacto
-
 <div align="center">
-
-<a href="https://www.linkedin.com/in/luis-enrrique-velarde-garcia-7126a23b2"><img src="https://img.icons8.com/fluency/48/linkedin.png" width="42"/></a>
-&nbsp;&nbsp;
-<a href="mailto:enrriquevg.1811@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail-new.png" width="42"/></a>
-&nbsp;&nbsp;
-<a href="https://wa.me/59176962317"><img src="https://img.icons8.com/fluency/48/whatsapp.png" width="42"/></a>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:2563eb,100:06b6d4&height=4&section=header" width="100%"/>
 </div>
 
----
+<h2 align="center">
+  <img src="https://img.icons8.com/fluency/48/contact-card.png" width="28" valign="middle"/>
+  &nbsp;Contacto
+</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/luis-enrrique-velarde-garcia-7126a23b2">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:enrriquevg.1811@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/59176962317">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+</p>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&fontColor=ffffff" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=22D3EE&center=true&width=600&lines=Gracias+por+visitar+mi+perfil;Sigue+aprendiendo;Sigue+construyendo;Sigue+programando" alt="footer typing"/>
 
-*"Cada experto fue alguna vez un principiante — el camino es el destino."*
+<br/>
 
-**¡Gracias por visitar mi perfil!**
+**¡Gracias por visitar mi perfil 🚀!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:2563eb,100:312e81&height=100&section=footer"/>
+
+<i>"Cada experto fue alguna vez un principiante — el camino es el destino."</i>
 
 </div>
