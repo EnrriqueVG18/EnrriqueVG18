@@ -1,24 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,40:312e81,70:2563eb,100:06b6d4&height=200&section=header&text=Enrrique%20Velarde%20Garcia&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20in%20Training&descSize=18&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,40:4c1d95,70:2563eb,100:06b6d4&height=180&section=header&text=Enrrique%20Velarde%20Garcia&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20Developer%20in%20Training&descAlignY=58&descSize=18"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=67E8F9&center=true&vCenter=true&width=650&lines=Aprendiendo+cada+d%C3%ADa;Construyendo+mi+camino+como+Developer;Frontend+%7C+Backend+%7C+Database;Full+Stack+Journey"/>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=EnrriqueVG18&label=VISITAS+AL+PERFIL&color=8b5cf6&style=for-the-badge"/>
-
-</div>
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=700&color=22D3EE&center=true&vCenter=true&width=600&lines=Building+with+code+%F0%9F%9A%80;Full+Stack+Developer+Journey;Always+learning+new+technologies;Welcome+to+my+profile"/>
 
 <br>
 
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif" width="420"/>
+<img src="https://komarev.com/ghpvc/?username=EnrriqueVG18&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -27,33 +17,49 @@
 
 
 <h2 align="center">
-<img src="https://img.icons8.com/fluency/48/user-male-circle.png" width="28"/>
+
+<img src="https://img.icons8.com/fluency/48/user-male-circle.png" width="30">
+
 Sobre mí
+
 </h2>
 
 
 <div align="center">
 
-Soy <b>Enrrique Velarde Garcia</b>, desarrollador web en formación enfocado en crear soluciones digitales modernas.
+Soy <b>Enrrique Velarde Garcia</b>, desarrollador web en formación apasionado por crear soluciones digitales modernas.
 
 <br>
 
-Me apasiona aprender nuevas tecnologías, construir proyectos y mejorar constantemente mis habilidades.
+Mi objetivo es convertirme en un Full Stack Developer capaz de construir aplicaciones completas y escalables.
 
 <br><br>
 
+
+<table align="center">
+<tr>
+
+<td align="center">
 <img src="https://img.icons8.com/fluency/24/marker.png">
+<br>
 <b>Cochabamba, Bolivia</b>
+</td>
 
-&nbsp;&nbsp;&nbsp;
-
+<td align="center">
 <img src="https://img.icons8.com/fluency/24/laptop.png">
+<br>
 <b>Web Development</b>
+</td>
 
-&nbsp;&nbsp;&nbsp;
-
+<td align="center">
 <img src="https://img.icons8.com/fluency/24/rocket.png">
+<br>
 <b>Full Stack Developer</b>
+</td>
+
+</tr>
+</table>
+
 
 </div>
 
@@ -61,8 +67,11 @@ Me apasiona aprender nuevas tecnologías, construir proyectos y mejorar constant
 ---
 
 <h2 align="center">
-<img src="https://img.icons8.com/fluency/48/rocket.png" width="28"/>
+
+<img src="https://img.icons8.com/fluency/48/rocket.png" width="30">
+
 Developer Journey
+
 </h2>
 
 
@@ -72,24 +81,24 @@ Developer Journey
 
 <tr>
 
-<td align="center" width="33%">
+<td width="33%" align="center">
 
-<img src="https://img.icons8.com/fluency/48/source-code.png">
-
-<br>
-
-<b>Code</b>
+<img src="https://img.icons8.com/fluency/64/source-code.png">
 
 <br>
 
-Programación y lógica.
+<b>Coding</b>
+
+<br>
+
+Mejorando lógica y programación.
 
 </td>
 
 
-<td align="center" width="33%">
+<td width="33%" align="center">
 
-<img src="https://img.icons8.com/fluency/48/web-design.png">
+<img src="https://img.icons8.com/fluency/64/web-design.png">
 
 <br>
 
@@ -97,14 +106,14 @@ Programación y lógica.
 
 <br>
 
-Interfaces modernas.
+Diseño de interfaces modernas.
 
 </td>
 
 
-<td align="center" width="33%">
+<td width="33%" align="center">
 
-<img src="https://img.icons8.com/fluency/48/server.png">
+<img src="https://img.icons8.com/fluency/64/server.png">
 
 <br>
 
@@ -112,7 +121,7 @@ Interfaces modernas.
 
 <br>
 
-Sistemas y datos.
+Sistemas y bases de datos.
 
 </td>
 
@@ -127,8 +136,11 @@ Sistemas y datos.
 ---
 
 <h2 align="center">
-<img src="https://img.icons8.com/fluency/48/settings.png" width="28"/>
+
+<img src="https://img.icons8.com/fluency/48/settings.png" width="30">
+
 Tecnologías y Herramientas
+
 </h2>
 
 
@@ -137,7 +149,7 @@ Tecnologías y Herramientas
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,angular,tailwind&theme=dark"/>
 
 
 <br><br>
@@ -145,15 +157,15 @@ Tecnologías y Herramientas
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=php,laravel&theme=dark">
+<img src="https://skillicons.dev/icons?i=php,laravel&theme=dark"/>
 
 
 <br><br>
 
 
-### Database
+### Database & Cloud
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,supabase&theme=dark">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,supabase&theme=dark"/>
 
 
 <br><br>
@@ -161,17 +173,20 @@ Tecnologías y Herramientas
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark">
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
+
+<img src="https://raw.githubusercontent.com/usebruno/bruno/main/assets/images/logo.png" width="48"/>
 
 
 </div>
-
-
 ---
 
 <h2 align="center">
-<img src="https://img.icons8.com/fluency/48/folder-invoices.png" width="28"/>
+
+<img src="https://img.icons8.com/fluency/48/folder-invoices.png" width="30">
+
 Proyectos Destacados
+
 </h2>
 
 
@@ -182,39 +197,57 @@ Proyectos Destacados
 
 <tr>
 
-<td align="center" width="50%">
+
+<td width="50%" align="center">
 
 
-<img src="https://img.icons8.com/fluency/48/code.png">
+<img src="https://img.icons8.com/fluency/64/code.png">
 
 
 <br>
 
 <b>Web Applications</b>
 
-<br>
 
-Creando interfaces modernas,
-responsivas y funcionales.
+<br><br>
+
+
+Desarrollo de aplicaciones web modernas,
+responsive y enfocadas en experiencia de usuario.
+
+
+<br><br>
+
+
+<img src="https://img.shields.io/badge/Status-Learning-blue?style=for-the-badge">
 
 
 </td>
 
 
-<td align="center" width="50%">
+
+<td width="50%" align="center">
 
 
-<img src="https://img.icons8.com/fluency/48/programming.png">
+<img src="https://img.icons8.com/fluency/64/programming.png">
 
 
 <br>
 
 <b>Full Stack Projects</b>
 
-<br>
 
-Integrando frontend,
-backend y bases de datos.
+<br><br>
+
+
+Integración de frontend, backend,
+bases de datos y APIs.
+
+
+<br><br>
+
+
+<img src="https://img.shields.io/badge/Focus-FullStack-purple?style=for-the-badge">
 
 
 </td>
@@ -229,116 +262,233 @@ backend y bases de datos.
 </div>
 
 
+
 ---
 
 <h2 align="center">
-<img src="https://img.icons8.com/fluency/48/combo-chart.png" width="28"/>
-Estadísticas GitHub
+
+<img src="https://img.icons8.com/fluency/48/combo-chart.png" width="30">
+
+Estadísticas de GitHub
+
 </h2>
 
 
 <div align="center">
 
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=EnrriqueVG18&show_icons=true&theme=tokyonight&hide_border=true">
+<img height="180"
+src="https://github-readme-stats.vercel.app/api?username=EnrriqueVG18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
+alt="GitHub Stats">
 
 
-&nbsp;&nbsp;
-
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnrriqueVG18&layout=compact&theme=tokyonight&hide_border=true">
-
-
-</div>
-
-
-<br>
-
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=EnrriqueVG18&theme=tokyo-night&hide_border=true">
-
-</div>
-
-
----
-
-<h2 align="center">
-<img src="https://img.icons8.com/fluency/48/book.png" width="28"/>
-Actualmente Aprendiendo
-</h2>
-
-
-<div align="center">
-
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=F59E0B&center=true&width=600&lines=React;Laravel;TailwindCSS;Database+Design;Clean+Code">
-
-
-</div>
-
-
----
-
-<h2 align="center">
-<img src="https://img.icons8.com/fluency/48/contact-card.png" width="28"/>
-Contacto
-</h2>
-
-
-<div align="center">
-
-
-<a href="https://www.linkedin.com/in/luis-enrrique-velarde-garcia-7126a23b2">
-
-<img src="https://img.icons8.com/fluency/48/linkedin.png" width="45">
-
-</a>
-
-
-&nbsp;&nbsp;&nbsp;
-
-
-<a href="mailto:enrriquevg.1811@gmail.com">
-
-<img src="https://img.icons8.com/fluency/48/gmail-new.png" width="45">
-
-</a>
-
-
-&nbsp;&nbsp;&nbsp;
-
-
-<a href="https://wa.me/59176962317">
-
-<img src="https://img.icons8.com/fluency/48/whatsapp.png" width="45">
-
-</a>
-
-
-</div>
-
-
-<br>
-
-
-<div align="center">
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:2563eb,100:312e81&height=100&section=footer">
-
-
-<br>
-
-
-<i>"Cada experto fue alguna vez un principiante."</i>
+<img height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnrriqueVG18&layout=compact&theme=tokyonight&hide_border=true"
+alt="Top Languages">
 
 
 <br><br>
 
 
-<b>Gracias por visitar mi perfil</b>
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=EnrriqueVG18&theme=tokyo-night&hide_border=true"
+width="90%"
+alt="Contribution Graph">
+
+
+</div>
+
+
+
+---
+
+<h2 align="center">
+
+<img src="https://img.icons8.com/fluency/48/book.png" width="30">
+
+Actualmente Aprendiendo
+
+</h2>
+
+
+<div align="center">
+
+
+<table>
+
+<tr>
+
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=react" width="45">
+
+<br>
+
+React
+
+</td>
+
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=laravel" width="45">
+
+<br>
+
+Laravel
+
+</td>
+
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=tailwind" width="45">
+
+<br>
+
+Tailwind
+
+</td>
+
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres" width="45">
+
+<br>
+
+PostgreSQL
+
+</td>
+
+
+</tr>
+
+</table>
+
+
+</div>
+
+
+
+---
+
+<h2 align="center">
+
+<img src="https://img.icons8.com/fluency/48/contact-card.png" width="30">
+
+Contacto
+
+</h2>
+
+
+<div align="center">
+
+
+<table>
+
+<tr>
+
+
+<td align="center">
+
+<a href="https://www.linkedin.com/in/luis-enrrique-velarde-garcia-7126a23b2">
+
+<img src="https://img.icons8.com/fluency/64/linkedin.png">
+
+<br>
+
+LinkedIn
+
+</a>
+
+
+</td>
+
+
+
+<td align="center">
+
+
+<a href="mailto:enrriquevg.1811@gmail.com">
+
+
+<img src="https://img.icons8.com/fluency/64/gmail-new.png">
+
+
+<br>
+
+Email
+
+
+</a>
+
+
+</td>
+
+
+
+<td align="center">
+
+
+<a href="https://wa.me/59176962317">
+
+
+<img src="https://img.icons8.com/fluency/64/whatsapp.png">
+
+
+<br>
+
+WhatsApp
+
+
+</a>
+
+
+</td>
+
+
+</tr>
+
+
+</table>
+
+
+</div>
+
+
+
+<br>
+
+
+
+<div align="center">
+
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=22D3EE&center=true&width=600&lines=Thanks+for+visiting+my+profile;Keep+learning;Keep+building;Keep+coding"/>
+
+
+<br><br>
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:2563eb,100:312e81&height=120&section=footer">
+
+
+<br>
+
+
+<i>
+"Cada experto fue alguna vez un principiante."
+</i>
+
+
+<br><br>
+
+
+<b>
+Gracias por visitar mi perfil 🚀
+</b>
 
 
 </div>
