@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,35:312e81,70:2563eb,100:22d3ee&height=220&section=header&text=Enrrique%20Velarde%20Garcia&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20in%20Training&descSize=18&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,40:312e81,70:2563eb,100:06b6d4&height=200&section=header&text=Enrrique%20Velarde%20Garcia&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20in%20Training&descSize=18&descAlignY=60"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=67E8F9&center=true&vCenter=true&width=650&lines=Aprendiendo+cada+d%C3%ADa;Construyendo+mi+camino+como+Developer;HTML+%7C+CSS+%7C+JavaScript+%7C+React+%7C+Laravel;Bienvenido+a+mi+perfil"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=67E8F9&center=true&vCenter=true&width=650&lines=Aprendiendo+cada+d%C3%ADa;Construyendo+mi+camino+como+Developer;Frontend+%7C+Backend+%7C+Database;Full+Stack+Journey"/>
 
 <br><br>
 
@@ -18,7 +18,7 @@
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif" width="500"/>
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif" width="420"/>
 
 </div>
 
@@ -27,40 +27,33 @@
 
 
 <h2 align="center">
-
-<img src="https://img.icons8.com/fluency/48/user-male-circle.png" width="30"/>
-
+<img src="https://img.icons8.com/fluency/48/user-male-circle.png" width="28"/>
 Sobre mí
-
 </h2>
 
 
 <div align="center">
 
-Soy <b>Enrrique Velarde Garcia</b>, desarrollador web en formación apasionado por crear soluciones digitales modernas.
+Soy <b>Enrrique Velarde Garcia</b>, desarrollador web en formación enfocado en crear soluciones digitales modernas.
+
+<br>
+
+Me apasiona aprender nuevas tecnologías, construir proyectos y mejorar constantemente mis habilidades.
 
 <br><br>
 
-Me gusta aprender nuevas tecnologías, construir proyectos y mejorar constantemente mis habilidades como desarrollador.
-
-<br><br>
-
-<img src="https://img.icons8.com/fluency/24/marker.png"/>
-
+<img src="https://img.icons8.com/fluency/24/marker.png">
 <b>Cochabamba, Bolivia</b>
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
-<img src="https://img.icons8.com/fluency/24/laptop.png"/>
-
+<img src="https://img.icons8.com/fluency/24/laptop.png">
 <b>Web Development</b>
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
-<img src="https://img.icons8.com/fluency/24/rocket.png"/>
-
-<b>Full Stack Journey</b>
-
+<img src="https://img.icons8.com/fluency/24/rocket.png">
+<b>Full Stack Developer</b>
 
 </div>
 
@@ -68,16 +61,12 @@ Me gusta aprender nuevas tecnologías, construir proyectos y mejorar constanteme
 ---
 
 <h2 align="center">
-
-<img src="https://img.icons8.com/fluency/48/rocket.png" width="30"/>
-
+<img src="https://img.icons8.com/fluency/48/rocket.png" width="28"/>
 Developer Journey
-
 </h2>
 
 
 <div align="center">
-
 
 <table>
 
@@ -85,22 +74,22 @@ Developer Journey
 
 <td align="center" width="33%">
 
-<img src="https://img.icons8.com/fluency/48/source-code.png"/>
+<img src="https://img.icons8.com/fluency/48/source-code.png">
 
 <br>
 
-<b>Código</b>
+<b>Code</b>
 
 <br>
 
-Fundamentos sólidos y buenas prácticas.
+Programación y lógica.
 
 </td>
 
 
 <td align="center" width="33%">
 
-<img src="https://img.icons8.com/fluency/48/web-design.png"/>
+<img src="https://img.icons8.com/fluency/48/web-design.png">
 
 <br>
 
@@ -108,14 +97,14 @@ Fundamentos sólidos y buenas prácticas.
 
 <br>
 
-Interfaces modernas y atractivas.
+Interfaces modernas.
 
 </td>
 
 
 <td align="center" width="33%">
 
-<img src="https://img.icons8.com/fluency/48/server.png"/>
+<img src="https://img.icons8.com/fluency/48/server.png">
 
 <br>
 
@@ -123,7 +112,7 @@ Interfaces modernas y atractivas.
 
 <br>
 
-Lógica, datos y sistemas.
+Sistemas y datos.
 
 </td>
 
@@ -132,18 +121,14 @@ Lógica, datos y sistemas.
 
 </table>
 
-
 </div>
 
 
 ---
 
 <h2 align="center">
-
-<img src="https://img.icons8.com/fluency/48/settings.png" width="30"/>
-
+<img src="https://img.icons8.com/fluency/48/settings.png" width="28"/>
 Tecnologías y Herramientas
-
 </h2>
 
 
@@ -152,8 +137,7 @@ Tecnologías y Herramientas
 
 ### Frontend
 
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark">
 
 
 <br><br>
@@ -161,26 +145,23 @@ Tecnologías y Herramientas
 
 ### Backend
 
-
-<img src="https://skillicons.dev/icons?i=php,laravel&theme=dark"/>
-
-
-<br><br>
-
-
-### Base de Datos
-
-
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=php,laravel&theme=dark">
 
 
 <br><br>
 
 
-### Herramientas
+### Database
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,supabase&theme=dark">
 
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
+<br><br>
+
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark">
 
 
 </div>
@@ -189,11 +170,8 @@ Tecnologías y Herramientas
 ---
 
 <h2 align="center">
-
-<img src="https://img.icons8.com/fluency/48/folder-invoices.png" width="30"/>
-
-Proyectos
-
+<img src="https://img.icons8.com/fluency/48/folder-invoices.png" width="28"/>
+Proyectos Destacados
 </h2>
 
 
@@ -204,46 +182,39 @@ Proyectos
 
 <tr>
 
+<td align="center" width="50%">
 
-<td width="50%" align="center">
 
-
-<img src="https://img.icons8.com/fluency/48/code.png"/>
+<img src="https://img.icons8.com/fluency/48/code.png">
 
 
 <br>
 
+<b>Web Applications</b>
 
-<b>Proyecto Web</b>
+<br>
 
-
-<br><br>
-
-
-Aplicaciones web enfocadas en diseño moderno,
-funcionalidad y experiencia de usuario.
+Creando interfaces modernas,
+responsivas y funcionales.
 
 
 </td>
 
 
+<td align="center" width="50%">
 
-<td width="50%" align="center">
 
-
-<img src="https://img.icons8.com/fluency/48/programming.png"/>
+<img src="https://img.icons8.com/fluency/48/programming.png">
 
 
 <br>
 
+<b>Full Stack Projects</b>
 
-<b>Proyecto Full Stack</b>
+<br>
 
-
-<br><br>
-
-
-Integración de frontend, backend y bases de datos.
+Integrando frontend,
+backend y bases de datos.
 
 
 </td>
@@ -261,24 +232,48 @@ Integración de frontend, backend y bases de datos.
 ---
 
 <h2 align="center">
-
-<img src="https://img.icons8.com/fluency/48/combo-chart.png" width="30"/>
-
-Estadísticas de GitHub
-
+<img src="https://img.icons8.com/fluency/48/combo-chart.png" width="28"/>
+Estadísticas GitHub
 </h2>
 
 
 <div align="center">
 
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EnrriqueVG18&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=EnrriqueVG18&show_icons=true&theme=tokyonight&hide_border=true">
 
 
-<br><br>
+&nbsp;&nbsp;
 
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EnrriqueVG18&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnrriqueVG18&layout=compact&theme=tokyonight&hide_border=true">
+
+
+</div>
+
+
+<br>
+
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=EnrriqueVG18&theme=tokyo-night&hide_border=true">
+
+</div>
+
+
+---
+
+<h2 align="center">
+<img src="https://img.icons8.com/fluency/48/book.png" width="28"/>
+Actualmente Aprendiendo
+</h2>
+
+
+<div align="center">
+
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=F59E0B&center=true&width=600&lines=React;Laravel;TailwindCSS;Database+Design;Clean+Code">
 
 
 </div>
@@ -287,31 +282,8 @@ Estadísticas de GitHub
 ---
 
 <h2 align="center">
-
-<img src="https://img.icons8.com/fluency/48/book.png" width="30"/>
-
-Aprendiendo Actualmente
-
-</h2>
-
-
-<div align="center">
-
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=900&color=F59E0B&center=true&vCenter=true&width=600&lines=React;Laravel;JavaScript;Clean+Code;Full+Stack+Development"/>
-
-
-</div>
-
-
----
-
-<h2 align="center">
-
-<img src="https://img.icons8.com/fluency/48/contact-card.png" width="30"/>
-
+<img src="https://img.icons8.com/fluency/48/contact-card.png" width="28"/>
 Contacto
-
 </h2>
 
 
@@ -320,27 +292,27 @@ Contacto
 
 <a href="https://www.linkedin.com/in/luis-enrrique-velarde-garcia-7126a23b2">
 
-<img src="https://img.icons8.com/fluency/48/linkedin.png" width="45"/>
+<img src="https://img.icons8.com/fluency/48/linkedin.png" width="45">
 
 </a>
 
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 
 <a href="mailto:enrriquevg.1811@gmail.com">
 
-<img src="https://img.icons8.com/fluency/48/gmail-new.png" width="45"/>
+<img src="https://img.icons8.com/fluency/48/gmail-new.png" width="45">
 
 </a>
 
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 
 <a href="https://wa.me/59176962317">
 
-<img src="https://img.icons8.com/fluency/48/whatsapp.png" width="45"/>
+<img src="https://img.icons8.com/fluency/48/whatsapp.png" width="45">
 
 </a>
 
@@ -354,7 +326,7 @@ Contacto
 <div align="center">
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:2563eb,100:312e81&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:2563eb,100:312e81&height=100&section=footer">
 
 
 <br>
